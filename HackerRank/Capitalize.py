@@ -5,15 +5,10 @@ import random
 import re
 import sys
 
-import math
-import os
-import random
-import re
-import sys
-
 # Complete the solve function below.
-def solve(s):
+def solve(s:str):
     pass
+    # return s.capitalize()
 
 
 if __name__ == '__main__':
@@ -24,5 +19,3 @@ if __name__ == '__main__':
     fptr.write(result + '\n')
     fptr.close()
 
-    sd = ""
-    sd.upper()

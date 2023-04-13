@@ -1,0 +1,13 @@
+name, subject, marks
+Sam, maths, 90
+Ann, science, 70
+Jane, science, 88
+Sam, science, 55
+Sam, Art, 45
+Jane, Art, 74
+Jane, maths, 81
+Ann, maths, 68
+Ann, Art, 50
+Elon, Art, 91
+Mark, maths, 62
+Mark, Art, 72
