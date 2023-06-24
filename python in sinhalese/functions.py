@@ -1,6 +1,4 @@
-import math
-
-    
+import math  
 
 def gross(grossSalary):
         return int(grossSalary)
